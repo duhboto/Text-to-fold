@@ -1,14 +1,14 @@
 ## Program Name: Text to Fold
 
 ### Introduction
-Text to Fold is a Python script that allows you to create multiple folders and subfolders based on the contents of a text file. The script can handle both line breaks and comma-separated values in the input file, and creates a main folder for each line or line item. Inside each main folder, three subfolders are created with specific names.
+Text to Fold is a Python script and windows app that allows you to create multiple folders and subfolders based on the contents of a text file. The script can handle both line breaks and comma-separated values in the input file, and creates a main folder for each line or line item. Inside each main folder, three subfolders are created with specific names.
 
 ### Requirements
 This program requires Python 3.x to run. There are no additional modules or packages required.
 
 ### How to Use
 1. Save the script in a Python file with a .py extension.
-2. Create a text file with the names of the folders you want to create. Each line or line item in the text file should contain the name(s) of the folder(s) you want to create, separated by commas. If you want to create multiple main folders, separate each line or line item with a line break. Here are some examples:
+2. Create a text in the inputtext.txt with the names of the folders you want to create. Each line or line item in the text file should contain the name(s) of the folder(s) you want to create, separated by commas. If you want to create multiple main folders, separate each line or line item with a line break. Here are some examples:
 
    ```
    Folder 1, Folder 2, Folder 3
